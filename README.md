@@ -17,6 +17,9 @@ This repository is a compiled collection of laboratory activities and project do
 
 ## List of Activities
 
+### APP_DEV Activity 2 – UML Diagram Design Project
+"J-PRO LIGHTS AND SOUNDS RENTALS: BOOKING AND RESERVATION SYSTEM"
+
 ### Activity 1 – Presentation Final Project (SIA)
 Preliminary documentation for the "UML Final Project – Title & Design Proposal."
 
